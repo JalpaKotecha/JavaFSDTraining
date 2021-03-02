@@ -26,8 +26,8 @@ public class EmployeeListDemo {
 	//List Traversing 
 	for(Employee emp : listOfEmployees)
 	{
-		System.out.println("Employee:  " + emp.id +", " + "");
+		System.out.println("Employee:" + emp.id +", " + " Name:" +emp.name+ "," +" Salary:" +emp.salary+ "," + " Department:" +emp.dept);
 	}
 
 }
-}
+} 

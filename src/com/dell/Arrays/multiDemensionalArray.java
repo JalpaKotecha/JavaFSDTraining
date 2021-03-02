@@ -23,7 +23,7 @@ public class multiDemensionalArray {
 			//Access elements need nested for loop. which we will refer as column
 			for(int col=0; col<number[row].length; col++)
 			{
-				System.out.println("Value at ["+row +"," +col+ "] " + "Value :: " + number[row][col]);
+				System.out.println("Value at "+"[" +row+ "," +col+"]"+   " is :: " + number[row][col]);
 			}
 		}
 		

@@ -8,10 +8,10 @@ public class Employee {
 		double salary;
 		String dept;
 		
-		public Employee()
-		{
+		//public Employee()
+		//{
 			
-		}
+		//}
 
 		public Employee(int id, String name, double salary, String dept)
 		{
